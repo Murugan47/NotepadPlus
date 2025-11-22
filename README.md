@@ -1,6 +1,6 @@
 # Notepad Android App
 
-A simple lightweight notepad for Android with widget support.
+A simple lightweight notepad for Android designed to be used alongside the widget.
 
 ## Current Features
 
