@@ -1,12 +1,12 @@
 # Notepad Android App
 
-A simple lightweight notepad for Android designed to be used alongside the widget.
+A simple lightweight notepad for Android designed for the widget aspect alone. A simple homescreen widget that displays what is typed on the notepad itself.
 
 ## Current Features
 
-- Supports **one note** that stores all the information displayed on the widget.
+- Currently supports **a singular note** that stores all the information displayed on the widget.
 - **Active saving**: edits or exiting the app automatically updates the widget — no reload required.
-- **Read-only widget**: the widget is only used to display the note; it cannot be edited directly.
+- **Read-only widget**: the widget is only used to display the note; it cannot be edited directly, it also does not allow clicking on the note and accidently getting misdirected to the app itself.
 
 ## Future Additions
 
